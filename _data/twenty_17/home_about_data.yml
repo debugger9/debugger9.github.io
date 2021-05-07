@@ -1,0 +1,35 @@
+- inverted: 
+  img: icon-about.jpeg
+  name: Buluşma Hakkında
+  info: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  link: /about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  name: Tarih
+  info: Lorem Ipsum is simply 
+  link: /agenda
+
+- inverted: 
+  img: icon-team.jpeg
+  name: Takım
+  info: Lorem Ipsum is simply dummy 
+  link: /team
+
+- inverted: timeline-inverted
+  img: icon-venue.jpeg
+  name: Adres
+  info: Lorem Ipsum is simply dummy text 
+  link: /venue
+
+- inverted: 
+  img: icon-faq.jpeg
+  name: SSS
+  info: Lorem Ipsum is simply dummy text of the
+  link: /faqs
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Döküman
+  info: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  link: /booklet
